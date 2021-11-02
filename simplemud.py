@@ -37,6 +37,10 @@ rooms = {
         "description": "You're standing outside a tavern. It's raining.",
         "exits": {"inside": "Tavern"},
     }
+   Iss room": {
+        "description": "You walk into the small cold room with plan grey walls.",
+        "exits": {"tavern": "Tavern"},
+    }
 }
 
 # stores the players in the game
